@@ -1,12 +1,12 @@
-#SEQUELIZE - JWT - EXPRESS SERVER
+# SEQUELIZE - JWT - EXPRESS SERVER
 ## Installation
 ```
 npm install
 ```
-##Configure
+## Configure
 First you need to configure ```./config/app_config.json``` for your app and database.
 
-##Start
+## Start
 ```
 npm start
 ```
